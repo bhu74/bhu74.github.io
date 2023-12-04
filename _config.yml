@@ -1,7 +1,9 @@
-title: Bhuvaneshwari
-logo: /assets/img/avatar.jpg
-description: Driven by a commitment to excellence, I seek to harness the power of data analytics to 
-             facilitiate informed choices and optimal outcomes.
+title: <p align="center"> Bhuvaneshwari S </p>
+logo: "/assets/img/avatar.jpg?raw=true"
+description: 
+<p align="justify">
+Driven by a commitment to excellence, I seek to harness the power of data analytics to 
+facilitiate informed choices and optimal outcomes.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
