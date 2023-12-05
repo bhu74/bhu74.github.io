@@ -1,6 +1,6 @@
 title: <p align="center"> Bhuvaneshwari S </p>
 
-logo: <img align="center" src="/assets/img/avatar.jpg">
+logo: <img align="center" src="/assets/img/avatar.jpg?raw=true">
 
 description: 
   <p align="center">
@@ -8,11 +8,11 @@ description:
   <a>Data Science</a> 
   </p>
 
-  <p align="justify">
-  *Driven by a commitment to excellence, I seek to harness the power of data analytics to 
-  facilitiate informed choices and optimal outcomer to customer.*
+  <p align="justify"><i>
+  Driven by a commitment to excellence, I seek to harness the power of data analytics to 
+  facilitiate informed choices and optimal outcomer to customer.
   <br><br>
-  </p>
+  </i></p>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
