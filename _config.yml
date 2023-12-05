@@ -1,7 +1,8 @@
 title: <p align="center"> Bhuvaneshwari S </p>
 
 logo: 
-<p align="center"> "/assets/img/avatar.jpg?raw=true" </p>
+  "/assets/img/avatar.jpg?raw=true"
+  fig.align: center
 
 description: 
   <p align="center">
