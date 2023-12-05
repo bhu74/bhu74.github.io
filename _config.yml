@@ -1,9 +1,15 @@
 title: <p align="center"> Bhuvaneshwari S </p>
-logo: "/assets/img/avatar.jpg?raw=true"
+logo: 
+<align="center"> "/assets/img/avatar.jpg?raw=true"
 description: 
+  <p align="center">
+  <a>Business Analytics</a> |
+  <a>Data Science</a> 
+  </p>
+
   <p align="justify">
-  Driven by a commitment to excellence, I seek to harness the power of data analytics to 
-  facilitiate informed choices and optimal outcomes.
+  *Driven by a commitment to excellence, I seek to harness the power of data analytics to 
+  facilitiate informed choices and optimal outcomer to customer.*
   <br><br>
   </p>
 show_downloads: false
